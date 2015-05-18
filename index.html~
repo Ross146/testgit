@@ -23,7 +23,7 @@
     <div class="container">
        
         <div class="cols col-3">три</div>
-        <div class="cols col-3">два</div>
+        <div class="cols col-3">Четыре</div>
         <div class="cols col-3">Четыре</div>
         <div class="cols col-3">Четыре</div>
     </div>
